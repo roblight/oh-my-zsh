@@ -123,5 +123,5 @@ POWERLEVEL9K_ROOT_INDICATOR_BACKGROUND="red"
 POWERLEVEL9K_ROOT_INDICATOR_FOREGROUND="white"
 # POWERLEVEL9K_ROOT_ICON="#"
 
-[ -f ~rwlight/.zshrc.custom ] && source ~rwlight/.zshrc.custom
-[ -f ~rwlight/.fzf.zsh      ] && source ~rwlight/.fzf.zsh
+[ -f ~/.zshrc.custom ] && source ~/.zshrc.custom
+[ -f ~/.fzf.zsh      ] && source ~/.fzf.zsh
